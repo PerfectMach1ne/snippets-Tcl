@@ -1,0 +1,1 @@
+![App window after the Tcl script is ran](for-reference.png)
