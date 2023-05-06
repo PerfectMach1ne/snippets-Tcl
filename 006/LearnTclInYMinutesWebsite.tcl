@@ -54,4 +54,4 @@ set greeting $greeting[
     incr i
 ]
 puts $greeting ;# -> Salutations3
-puts $greeting$i
+puts $greeting$i ;# -> Salutations33
